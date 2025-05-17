@@ -12,7 +12,7 @@ A .NET 6 class library that interacts with the ReqRes.in API to fetch, process, 
   - Configuration: Options classes
   - Extensions: Service registration helpers
 - **ReqResClient.Tests**: Unit tests for the class library.  Here I have added test cases for both methods
-- **ReqResClient.Demo**: Console app demonstrating usage. Through this console application, we will get data by both methods
+- **ReqResClient.Demo**: Console app demonstrating usage. Through this console application, we will get data by both methods, have to run this by using 'Set as Startup project'
 
 ## How to Build and Run
 
