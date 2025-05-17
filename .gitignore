@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ReqResClient.Demo/bin/Debug/net6.0
+/ReqResClient.Demo/obj/Debug/net6.0
+/ReqResClient.Demo/obj
+/ReqResClient.Tests/bin/Debug/net6.0
+/ReqResClient.Tests/bin/Release/net6.0
+/ReqResClient.Tests/obj
+/ReqResClient/obj
